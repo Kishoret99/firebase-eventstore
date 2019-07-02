@@ -1,0 +1,21 @@
+{
+  "name": "firebase-eventsource",
+  "version": "1.0.0",
+  "description": "poc for event sourcing using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishore",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.3.0"
+  },
+  "dependencies": {
+    "@firebase/app": "^0.4.9",
+    "@firebase/firestore": "^1.4.3",
+    "@types/express": "^4.17.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.2.0"
+  }
+}
