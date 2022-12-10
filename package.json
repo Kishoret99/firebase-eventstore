@@ -15,7 +15,7 @@
     "@firebase/app": "^0.4.9",
     "@firebase/firestore": "^1.4.3",
     "@types/express": "^4.17.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-admin": "^8.2.0"
   }
 }
